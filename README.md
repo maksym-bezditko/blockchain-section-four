@@ -36,6 +36,3 @@ This folder contains additional example Solidity contracts demonstrating various
 1. **Compilation:** Use a Solidity compiler (solc) to compile the contracts.
 2. **Deployment:** Deploy the contracts using tools like Remix, Truffle, or Hardhat.
 3. **Interaction:** Interact with the deployed contracts via web3.js, ethers.js, or directly through the Remix IDE.
-
-## License
-All contracts in this folder are licensed under the MIT License
